@@ -1,0 +1,16 @@
+The Great Gatsby,F. Scott Fitzgerald,Scribner,9780743273565,5,5
+1984,George Orwell,Secker & Warburg,9780451524935,5,5
+To Kill a Mockingbird,Harper Lee,J. B. Lippincott & Co.,9780446310789,5,4
+Pride and Prejudice,Jane Austen,T. Egerton,9780141439518,5,5
+The Catcher in the Rye,J.D. Salinger,Little Brown and Company,9780316769488,5,4
+Moby Dick,Herman Melville,Harper & Brothers,9781503280786,5,5
+War and Peace,Leo Tolstoy,The Russian Messenger,9781400079988,5,5
+The Hobbit,J.R.R. Tolkien,George Allen & Unwin,9780547928227,5,5
+Brave New World,Aldous Huxley,Chatto & Windus,9780060850524,5,5
+The Lord of the Rings,J.R.R. Tolkien,George Allen & Unwin,9780544003415,5,5
+Crime and Punishment,Fyodor Dostoevsky,The Russian Messenger,9780143058144,5,5
+The Odyssey,Homer,Penguin Classics,9780140268867,5,5
+Frankenstein,Mary Shelley,Lackington Hughes,9780486282114,5,4
+The Alchemist,Paulo Coelho,HarperOne,9780062315007,5,5
+The Little Prince,Antoine de Saint-Exupéry,Reynal & Hitchcock,9780156012195,5,3
+One Night,Chethan,Sri Chai,9780456312340,4,4

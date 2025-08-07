@@ -1,0 +1,15 @@
+11,Ivy Robinson,Student,0
+1,John Doe,Student,0
+12,Jack Harris,Faculty,0
+4,Bob Brown,Faculty,0
+15,Mia Walker,Student,0
+7,Eva Martinez,Student,0
+8,Frank Miller,Faculty,0
+9,Grace Lee,Student,0
+10,Henry Garcia,Faculty,0
+6,David Wilson,Faculty,0
+5,Charlie Davis,Student,0
+13,Kate Clark,Student,0
+2,Jane Smith,Faculty,0
+14,Liam Lewis,Faculty,0
+3,Alice Johnson,Student,0
